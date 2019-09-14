@@ -1,0 +1,53 @@
+*{
+  margin: 0;padding:0;
+}
+#contain{
+
+}
+#contain .header{
+  height:100px;
+  width:100%;
+  background-color:blue;
+}
+#contain .content{
+  width:400px;
+  height: 300px;
+  border: 1px solid #ccc;
+  margin: 100px auto;
+}
+#contain .content .login-usernama{
+  width:100%;
+  height: 50px;
+  margin-top: 50px;
+}
+#contain .content .login-usernama .username{
+  margin: 0 10px 0 50px;
+}
+#contain .content .login-passwd{
+  width:100%;
+  height: 50px;
+}
+#contain .content .login-passwd .passwd{
+  margin: 0 10px 0 65px;
+}
+#contain .content .login-inp{
+  width: 200px;
+  height:30px;
+  border: 1px solid #000;
+}
+#contain .content .login-btn{
+  width: 100%;
+  height:50px;
+  margin-top: 10px;
+}
+#contain .content .login-btn .submit{
+  width:250px;
+  height:30px;
+  border: 1px solid #ccc;
+  margin-left: 80px;
+}
+
+
+#contain .footer{
+
+}

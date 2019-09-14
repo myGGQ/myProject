@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcac3c7e-6f28-4d21-bbdf-33639355e9f5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="192.168.1.110" id="4a6f0b07-cc29-44c0-9134-b60e3cc7ae5e" name="localhost" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" deployment_server_id="74bee22d-d91a-4c13-b6a7-c81905e887e7" path_to_validation_script="D:\wamp\www\studyPHP\project" selected_validation_type="REMOTE" web_path_to_validation_script="http://192.168.1.110:80" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="PhpXdebugProxy" ide_key="PHPSTORM" host="192.168.1.110" port="9000" />
+  <component name="ProjectId" id="1PXecWHfJWOmIOIr2EtDpTvh6XQ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Web Page.test">
+    <configuration name="Unnamed" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" nameIsGenerated="true" server_name="localhost" start_url="">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="localhost" start_url="/project">
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="localhost" start_url="/studyPHP/project">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcac3c7e-6f28-4d21-bbdf-33639355e9f5" name="Default Changelist" comment="" />
+      <created>1566024947293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566024947293</updated>
+      <workItem from="1566024948622" duration="10857000" />
+      <workItem from="1566061800508" duration="2088000" />
+      <workItem from="1566114163114" duration="1237000" />
+      <workItem from="1566116936354" duration="4663000" />
+      <workItem from="1566199666020" duration="5317000" />
+      <workItem from="1566220156843" duration="6279000" />
+      <workItem from="1566226468795" duration="3000" />
+      <workItem from="1567340712579" duration="1745000" />
+      <workItem from="1567649864529" duration="671000" />
+      <workItem from="1567650650500" duration="25000" />
+      <workItem from="1567650706077" duration="11473000" />
+      <workItem from="1567903989272" duration="4533000" />
+      <workItem from="1567908831054" duration="189000" />
+      <workItem from="1568463735916" duration="885000" />
+      <workItem from="1568464909339" duration="1227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
